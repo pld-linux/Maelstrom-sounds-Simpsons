@@ -15,6 +15,7 @@ Obsoletes:	Maelstrom-sounds-BB
 Obsoletes:	Maelstrom-sounds-Funky
 Obsoletes:	Maelstrom-sounds-Martin
 Obsoletes:	Maelstrom-sounds-Stooges
+BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %define		_gamedir	%{_datadir}/Maelstrom
