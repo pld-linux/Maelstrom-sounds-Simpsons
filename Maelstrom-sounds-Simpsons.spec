@@ -10,8 +10,11 @@ Source0:	http://www.devolution.com/~slouken/projects/Maelstrom/add-ons/Extra_Sou
 URL:		http://www.devolution.com/~slouken/projects/Maelstrom/add-ons.html
 Requires:	Maelstrom
 Obsoletes:	Maelstrom-sounds
+Obsoletes:	Maelstrom-sounds-AoD
+Obsoletes:	Maelstrom-sounds-BB
 Obsoletes:	Maelstrom-sounds-Funky
 Obsoletes:	Maelstrom-sounds-Martin
+Obsoletes:	Maelstrom-sounds-Stooges
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %define		_gamedir	%{_datadir}/Maelstrom
