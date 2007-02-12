@@ -1,5 +1,5 @@
 Summary:	Rockin' asteroids game - extra sounds
-Summary(pl.UTF-8):   Gra, w której strzelasz do asteroidów - dodatkowe dźwięki
+Summary(pl.UTF-8):	Gra, w której strzelasz do asteroidów - dodatkowe dźwięki
 Name:		Maelstrom-sounds-Simpsons
 Version:	1
 Release:	1
