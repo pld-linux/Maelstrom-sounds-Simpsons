@@ -1,5 +1,5 @@
 Summary:	Rockin' asteroids game - extra sounds
-Summary(pl):	Gra, w której strzelasz do asteroidów - dodatkowe d¼wiêki
+Summary(pl.UTF-8):   Gra, w ktÃ³rej strzelasz do asteroidÃ³w - dodatkowe dÅºwiÄ™ki
 Name:		Maelstrom-sounds-Simpsons
 Version:	1
 Release:	1
@@ -23,8 +23,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Extra sounds for Maelstrom.
 
-%description -l pl
-D¼wiêki dla Maelstroma.
+%description -l pl.UTF-8
+DÅºwiÄ™ki dla Maelstroma.
 
 %prep
 %setup -q -n NewSounds
