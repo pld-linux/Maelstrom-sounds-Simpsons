@@ -5,8 +5,8 @@ Version:	1
 Release:	1
 License:	unknown
 Group:		X11/Applications/Games
-# Source0-md5:	74ddb0be0daa5aa7e546cb764a731c9a
 Source0:	http://www.devolution.com/~slouken/projects/Maelstrom/add-ons/Extra_Sounds.zip
+# Source0-md5:	74ddb0be0daa5aa7e546cb764a731c9a
 URL:		http://www.devolution.com/~slouken/projects/Maelstrom/add-ons.html
 Requires:	Maelstrom
 Obsoletes:	Maelstrom-sounds
