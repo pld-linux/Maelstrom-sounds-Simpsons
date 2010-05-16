@@ -8,6 +8,7 @@ Group:		X11/Applications/Games
 Source0:	http://www.devolution.com/~slouken/projects/Maelstrom/add-ons/Extra_Sounds.zip
 # Source0-md5:	74ddb0be0daa5aa7e546cb764a731c9a
 URL:		http://www.devolution.com/~slouken/projects/Maelstrom/add-ons.html
+BuildRequires:	unzip
 Requires:	Maelstrom
 Obsoletes:	Maelstrom-sounds
 Obsoletes:	Maelstrom-sounds-AoD
