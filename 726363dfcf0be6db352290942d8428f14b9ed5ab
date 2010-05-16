@@ -1,0 +1,1 @@
+- fixed FHS compliance (data moved to %%{_datadir}/Maelstrom})
